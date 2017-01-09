@@ -3,7 +3,8 @@
 #include <stdio.h>
 #include "quadeq.h"
 
-int main(){
+int main()
+{
 	float a, b, c;
 	float x1=0, x2=0;
 	printf("ax^2 + bx + c = 0\n");
