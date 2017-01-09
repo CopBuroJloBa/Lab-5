@@ -29,7 +29,7 @@ CTEST(urav_suite, test__equation2)
 	ASSERT_DBL_NEAR(expected_x1, x1);
 	ASSERT_DBL_NEAR(expected_x2, x2);
 }
-CTEST(urav_suite, test__equation2) 
+CTEST(urav_suite, test__equation3) 
 {
 	const float a =1, b = 2, c = 3;
 
